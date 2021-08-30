@@ -29,12 +29,12 @@ My objectives for this personal Module 4 project are:
 
 # Brief Comments and conclusions:
 
-DE-EXCELED !!! - With the help of the Alura Bootcamp DS II, Aluras courses Programming with Python, Python for DataSciences, services as stackoverflow, medium and others, I accomplished my objective to deliver this module project entirely within one Google Colab notebook (Combinations of Concern - sc04082021_10am.ipynb) using Python related packages. This notebook is also stored in My Drive > Alura DS Bootcamp > Combinations of Concern > Vac_C19_CoC_4_M4_AluraDSB_sc040821_10am
+* DE-EXCELED !!! - With the help of the Alura Bootcamp DS II, Aluras courses Programming with Python, Python for DataSciences, services as stackoverflow, medium and others, I accomplished my objective to deliver this module project entirely within one Google Colab notebook (Combinations of Concern - sc04082021_10am.ipynb) using Python related packages. This notebook is also stored in My Drive > Alura DS Bootcamp > Combinations of Concern > Vac_C19_CoC_4_M4_AluraDSB_sc040821_10am
 
-We notice that, in Santa Catarina, on 31 JUL 21, a small reduction (from 12% to 10%(467.103 (CoC_1 + CoC_3) out of a total of 4.854.329 registrations)) on the previous the overall trend of 12% registrations of covid_19 vaccinations with 'Combinations of Concern'.
+* We notice that, in Santa Catarina, on 31 JUL 21, a small reduction (from 12% to 10%(467.103 (CoC_1 + CoC_3) out of a total of 4.854.329 registrations)) on the previous the overall trend of 12% registrations of covid_19 vaccinations with 'Combinations of Concern'.
 
-UDVE 13 alone clusters 82% of the state total of 'Combinations of Concern' (398.908 out of 467.103). It seems a significant increase as end of June this % was 62%
+* UDVE 13 alone clusters 82% of the state total of 'Combinations of Concern' (398.908 out of 467.103). It seems a significant increase as end of June this % was 62%
 
-"'No_issue'" - as already mentioned, from the pharmacovigilance point of view, is not totally correct, as I noticed some other 'combinations of worrying' (to distinguish of the definition of 'CoC'). So I may tackle 'combinations of worrying' in the projects of the next two modules of this bootcamp.
+* "'No_issue'" - as already mentioned, from the pharmacovigilance point of view, is not totally correct, as I noticed some other 'combinations of worrying' (to distinguish of the definition of 'CoC'). So I may tackle 'combinations of worrying' in the projects of the next two modules of this bootcamp.
 
 Finally, as explained, I am tailoring all the above with the end_user in mind: the SC UDVE manager and local teams at the each 'vaccination center'. Therefore, at the end of this bootcamp we may use the material above to easily identify and isolate all the registrations with 'combinations of concern' for appreciation at several levels - UDVE, county, vaccination center, etc. More about how that can be done in a sensitive way with efficiente Risk Based Monitoring techniques I use in clinical trials may be presented in the next two modules.
